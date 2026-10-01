@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manav860/LinkedList/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
