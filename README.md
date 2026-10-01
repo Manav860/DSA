@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manav860/LinkedList/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manav860/LinkedList/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Manav860/LinkedList/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Manav860/LinkedList/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manav860/LinkedList/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Manav860/LinkedList/tree/master/0086-partition-list) |
 ## Array
 |  |
 | ------- |
