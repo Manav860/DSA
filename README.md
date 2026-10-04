@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Manav860/LinkedList/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Manav860/LinkedList/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Manav860/LinkedList/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Manav860/LinkedList/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Manav860/LinkedList/tree/master/0141-linked-list-cycle) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 |  |
@@ -104,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
