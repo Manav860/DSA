@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Manav860/LinkedList/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 ## Longest Increasing Subsequence
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Manav860/LinkedList/tree/master/0680-valid-palindrome-ii) |
 ## Timsort
 |  |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Manav860/LinkedList/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
