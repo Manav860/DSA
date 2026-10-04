@@ -49,8 +49,8 @@ public:
         while(t1!=NULL && t2!=NULL){
             if(t1->val<t2->val){
                 temp->next=t1;
-                temp=t1;
                 t1=t1->next;
+                temp=temp->next;
             }
             else{
                 temp->next=t2;
