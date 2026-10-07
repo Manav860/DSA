@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Manav860/LinkedList/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/Manav860/LinkedList/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Manav860/LinkedList/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Manav860/LinkedList/tree/master/0412-fizz-buzz) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
@@ -145,5 +146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Manav860/LinkedList/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Manav860/LinkedList/tree/master/0367-valid-perfect-square) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Manav860/LinkedList/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
