@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Manav860/LinkedList/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Manav860/LinkedList/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
 ## Array
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Manav860/LinkedList/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Manav860/LinkedList/tree/master/0367-valid-perfect-square) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Newton's Method
 |  |
 | ------- |
@@ -193,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
