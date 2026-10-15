@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Manav860/LinkedList/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1471-the-k-strongest-values-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
