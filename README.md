@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manav860/LinkedList/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Manav860/LinkedList/tree/master/0791-custom-sort-string) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
 | [1051-height-checker](https://github.com/Manav860/LinkedList/tree/master/1051-height-checker) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Manav860/LinkedList/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Manav860/LinkedList/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Manav860/LinkedList/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Timsort
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Manav860/LinkedList/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/Manav860/LinkedList/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/Manav860/LinkedList/tree/master/0791-custom-sort-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manav860/LinkedList/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
