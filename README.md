@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Manav860/LinkedList/tree/master/0504-base-7) |
 | [1017-convert-to-base-2](https://github.com/Manav860/LinkedList/tree/master/1017-convert-to-base-2) |
+| [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
@@ -280,4 +281,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Manav860/LinkedList/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manav860/LinkedList/tree/master/0342-power-of-four) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
