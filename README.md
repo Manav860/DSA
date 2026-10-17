@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Manav860/LinkedList/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manav860/LinkedList/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manav860/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Manav860/LinkedList/tree/master/0234-palindrome-linked-list) |
 | [0680-valid-palindrome-ii](https://github.com/Manav860/LinkedList/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Manav860/LinkedList/tree/master/0876-middle-of-the-linked-list) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manav860/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manav860/LinkedList/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Manav860/LinkedList/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manav860/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/Manav860/LinkedList/tree/master/0367-valid-perfect-square) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 ## Newton's Method
