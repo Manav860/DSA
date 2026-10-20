@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manav860/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manav860/LinkedList/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Manav860/LinkedList/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Manav860/LinkedList/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Manav860/LinkedList/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Manav860/LinkedList/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/Manav860/LinkedList/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Manav860/LinkedList/tree/master/0791-custom-sort-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manav860/LinkedList/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -313,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manav860/LinkedList/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manav860/LinkedList/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
