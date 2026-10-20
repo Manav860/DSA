@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Manav860/LinkedList/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
 | [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manav860/LinkedList/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Manav860/LinkedList/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manav860/LinkedList/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
@@ -320,4 +322,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manav860/LinkedList/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
