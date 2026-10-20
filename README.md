@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manav860/LinkedList/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Manav860/LinkedList/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Manav860/LinkedList/tree/master/0678-valid-parenthesis-string) |
@@ -296,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1362-closest-divisors](https://github.com/Manav860/LinkedList/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manav860/LinkedList/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manav860/LinkedList/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
