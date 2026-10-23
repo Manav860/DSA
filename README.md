@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-closest-divisors](https://github.com/Manav860/LinkedList/tree/master/1362-closest-divisors) |
 | [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Manav860/LinkedList/tree/master/2413-smallest-even-multiple) |
 | [3895-count-digit-appearances](https://github.com/Manav860/LinkedList/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
+| [2413-smallest-even-multiple](https://github.com/Manav860/LinkedList/tree/master/2413-smallest-even-multiple) |
 ## Prime Factorization
 |  |
 | ------- |
