@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Manav860/LinkedList/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Manav860/LinkedList/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Manav860/LinkedList/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manav860/LinkedList/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Manav860/LinkedList/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Manav860/LinkedList/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manav860/LinkedList/tree/master/0342-power-of-four) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Manav860/LinkedList/tree/master/3644-maximum-k-to-sort-a-permutation) |
