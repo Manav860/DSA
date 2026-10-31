@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manav860/LinkedList/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Manav860/LinkedList/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3701-compute-alternating-sum](https://github.com/Manav860/LinkedList/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3895-count-digit-appearances](https://github.com/Manav860/LinkedList/tree/master/3895-count-digit-appearances) |
 ## Greedy
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Manav860/LinkedList/tree/master/0682-baseball-game) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manav860/LinkedList/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/Manav860/LinkedList/tree/master/2390-removing-stars-from-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Manav860/LinkedList/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
