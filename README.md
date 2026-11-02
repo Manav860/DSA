@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Manav860/LinkedList/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Manav860/LinkedList/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manav860/LinkedList/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
