@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manav860/LinkedList/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Manav860/LinkedList/tree/master/0215-kth-largest-element-in-an-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Manav860/LinkedList/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manav860/LinkedList/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manav860/LinkedList/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Manav860/LinkedList/tree/master/0682-baseball-game) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Manav860/LinkedList/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Manav860/LinkedList/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Manav860/LinkedList/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0504-base-7](https://github.com/Manav860/LinkedList/tree/master/0504-base-7) |
 | [1017-convert-to-base-2](https://github.com/Manav860/LinkedList/tree/master/1017-convert-to-base-2) |
 | [1362-closest-divisors](https://github.com/Manav860/LinkedList/tree/master/1362-closest-divisors) |
