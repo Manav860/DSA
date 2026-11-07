@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Manav860/LinkedList/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manav860/LinkedList/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manav860/LinkedList/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manav860/LinkedList/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manav860/LinkedList/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Manav860/LinkedList/tree/master/0791-custom-sort-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Manav860/LinkedList/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manav860/LinkedList/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Manav860/LinkedList/tree/master/2390-removing-stars-from-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Manav860/LinkedList/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Timsort
