@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manav860/LinkedList/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Manav860/LinkedList/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Manav860/LinkedList/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Manav860/LinkedList/tree/master/2413-smallest-even-multiple) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Manav860/LinkedList/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3895-count-digit-appearances](https://github.com/Manav860/LinkedList/tree/master/3895-count-digit-appearances) |
 ## Recursion
 |  |
