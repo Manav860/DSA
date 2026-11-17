@@ -9,20 +9,6 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        // Using HASHING
-        // unordered_map<ListNode*,int> mp;
-        // ListNode*temp=head;
-        // while(temp!=NULL){
-        //     if(mp.find(temp)!=mp.end()){
-        //         return temp;
-        //     }
-        //     mp[temp]++;
-        //     temp=temp->next;
-            
-        // }
-        // return NULL;
-
-        // USING SLOW AND FAST POINTER(TORTOISE AND HARE ALGORITHM)
         ListNode*slow=head;
         ListNode*fast=head;
         while(fast!=NULL && fast->next!=NULL){
@@ -32,7 +18,7 @@ public:
                 break;
             }
         }
-        if(fast == NULL || fast->next == NULL){
+        if(fast==NULL || fast->next==NULL){
             return NULL;
         }
         ListNode*slow1=head;
