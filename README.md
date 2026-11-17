@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Manav860/LinkedList/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Manav860/LinkedList/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/Manav860/LinkedList/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/Manav860/LinkedList/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Manav860/LinkedList/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Manav860/LinkedList/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Manav860/LinkedList/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
+| [0817-linked-list-components](https://github.com/Manav860/LinkedList/tree/master/0817-linked-list-components) |
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/Manav860/LinkedList/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/Manav860/LinkedList/tree/master/0907-sum-of-subarray-minimums) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Manav860/LinkedList/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/Manav860/LinkedList/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/Manav860/LinkedList/tree/master/0791-custom-sort-string) |
+| [0817-linked-list-components](https://github.com/Manav860/LinkedList/tree/master/0817-linked-list-components) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manav860/LinkedList/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
