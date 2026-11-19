@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manav860/LinkedList/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manav860/LinkedList/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Manav860/LinkedList/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manav860/LinkedList/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manav860/LinkedList/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Manav860/LinkedList/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Manav860/LinkedList/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manav860/LinkedList/tree/master/1833-maximum-ice-cream-bars) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manav860/LinkedList/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manav860/LinkedList/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Longest Increasing Subsequence
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/Manav860/LinkedList/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1833-maximum-ice-cream-bars](https://github.com/Manav860/LinkedList/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manav860/LinkedList/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Manav860/LinkedList/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
