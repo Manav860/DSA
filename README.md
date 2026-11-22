@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manav860/LinkedList/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Manav860/LinkedList/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manav860/LinkedList/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Manav860/LinkedList/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2390-removing-stars-from-a-string](https://github.com/Manav860/LinkedList/tree/master/2390-removing-stars-from-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Manav860/LinkedList/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3110-score-of-a-string](https://github.com/Manav860/LinkedList/tree/master/3110-score-of-a-string) |
