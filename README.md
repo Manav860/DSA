@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manav860/LinkedList/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Manav860/LinkedList/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manav860/LinkedList/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Manav860/LinkedList/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/Manav860/LinkedList/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Manav860/LinkedList/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Manav860/LinkedList/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Manav860/LinkedList/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manav860/LinkedList/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manav860/LinkedList/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3895-count-digit-appearances](https://github.com/Manav860/LinkedList/tree/master/3895-count-digit-appearances) |
 ## Recursion
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manav860/LinkedList/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manav860/LinkedList/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Manav860/LinkedList/tree/master/1492-the-kth-factor-of-n) |
 | [2413-smallest-even-multiple](https://github.com/Manav860/LinkedList/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manav860/LinkedList/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Manav860/LinkedList/tree/master/1352-product-of-the-last-k-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Manav860/LinkedList/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
