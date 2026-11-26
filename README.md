@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Manav860/LinkedList/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2396-strictly-palindromic-number](https://github.com/Manav860/LinkedList/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Manav860/LinkedList/tree/master/2413-smallest-even-multiple) |
+| [3360-stone-removal-game](https://github.com/Manav860/LinkedList/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Manav860/LinkedList/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Manav860/LinkedList/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3895-count-digit-appearances](https://github.com/Manav860/LinkedList/tree/master/3895-count-digit-appearances) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Manav860/LinkedList/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Manav860/LinkedList/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/Manav860/LinkedList/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Manav860/LinkedList/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/Manav860/LinkedList/tree/master/3701-compute-alternating-sum) |
 ## Binary Search
 |  |
